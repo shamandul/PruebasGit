@@ -1,3 +1,7 @@
 <?php
- echo "pruebas";
+/**
+ * Prueba
+ */
+
+echo "pruebas";
 echo "prueba2";
