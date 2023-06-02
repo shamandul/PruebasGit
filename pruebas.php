@@ -27,3 +27,6 @@ $domResult->load($result);
 
 foreach($domResult->find('a[href^=/url?]') as $link)
 echo '<h1>' . $link->plaintext . ' </h1><br>';
+if($a){
+    echo "okk";;
+}
