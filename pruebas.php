@@ -30,3 +30,5 @@ echo '<h1>' . $link->plaintext . ' </h1><br>';
 if($a){
     echo "okk";;
 }
+echo "nuevo";
+echo "nuevo2";
